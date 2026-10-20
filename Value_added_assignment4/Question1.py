@@ -22,4 +22,4 @@ def highest_occurring_element(nums):
 
 
 nums = [2, 4, 3, 2, 5, 4]
-print(highest_occurring_element(nums))  
+print(highest_occurring_element(nums))
